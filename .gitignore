@@ -1,6 +1,6 @@
 /node_modules/
 /user.js
-
+*.png
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
